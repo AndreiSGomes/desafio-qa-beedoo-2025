@@ -44,17 +44,17 @@ O objetivo foi analisar o módulo **"Cursos"**, criar **User Story**, **Casos de
 
 | ID   | Status | Observação                                                   | Severidade | Evidência                                      |
 |------|--------|---------------------------------------------------------------|------------|-----------------------------------------------|
-| CT001 | OK     | Curso cadastrado e exibido corretamente                       | Baixa      | [CT001.mp4](SEU_LINK_EVIDENCIA_CT001)       |
-| CT002 | NOK    | Sistema permitiu cadastro com campos vazios                  | Alta       | [CT002.mp4](SEU_LINK_EVIDENCIA_CT002)       |
-| CT003 | NOK    | Campo "Vagas" aceitou valor negativo                          | Alta       | [CT003.mp4](SEU_LINK_EVIDENCIA_CT003)       |
-| CT004 | NOK    | Campo "Vagas" aceitou letras/símbolos                         | Alta       | [CT004.mp4](SEU_LINK_EVIDENCIA_CT004)       |
-| CT005 | NOK    | Data Fim anterior à Data Início aceita                         | Média/Alta | [CT005.mp4](SEU_LINK_EVIDENCIA_CT005)       |
-| CT006 | NOK    | Datas inválidas aceitas                                        | Média      | [CT006.mp4](SEU_LINK_EVIDENCIA_CT006)       |
-| CT007 | OK     | Listagem exibiu todos os cursos                                | Baixa      | [CT007.mp4](SEU_LINK_EVIDENCIA_CT007)       |
-| CT008 | OK     | Navegação para cadastro funcionando                             | Baixa      | [CT008.mp4](SEU_LINK_EVIDENCIA_CT008)       |
-| CT009 | NOK    | Excluir curso não remove o item (mensagem de sucesso exibida)   | Alta       | [CT009.mp4](SEU_LINK_EVIDENCIA_CT009)       |
-| CT010 | NOK    | Cards da listagem com tamanhos diferentes                       | Baixa      | [CT010.mp4](SEU_LINK_EVIDENCIA_CT010)       |
-| CT011 | NOK    | Atualizar página retorna 404                                     | Média      | [CT011.mp4](SEU_LINK_EVIDENCIA_CT011)       |
+| CT001 | OK     | Curso cadastrado e exibido corretamente                       | Baixa      | [CT001.mp4](https://drive.google.com/file/d/1KQM1ykwaTDslrJj5CrSsFPQTbV3sqb7Z/view?usp=drive_link)       |
+| CT002 | NOK    | Sistema permitiu cadastro com campos vazios                  | Alta       | [CT002.mp4](https://drive.google.com/file/d/1uI8wZtQO8GbkFggVKOLsyhHZDBA1MB6d/view?usp=drive_link)       |
+| CT003 | NOK    | Campo "Vagas" aceitou valor negativo                          | Alta       | [CT003.mp4](https://drive.google.com/file/d/15N1f1Ga2HymPV0w3ClvIERnv88KrP4T1/view?usp=drive_link)       |
+| CT004 | NOK    | Campo "Vagas" aceitou letras/símbolos                         | Alta       | [CT004.mp4](https://drive.google.com/file/d/14GngHtOWKNqa3Yxib42DjCXn3VdsBHwd/view?usp=drive_link)       |
+| CT005 | NOK    | Data Fim anterior à Data Início aceita                         | Média/Alta | [CT005.mp4](https://drive.google.com/file/d/1XjEoMuQPTxkiMPR3XbakKCphPkBA1A3t/view?usp=drive_link)       |
+| CT006 | NOK    | Datas inválidas aceitas                                        | Média      | [CT006.mp4](https://drive.google.com/file/d/1B1gEZZ4QlRMGZmxXtvYsAxz7Y8ax7Nob/view?usp=drive_link)       |
+| CT007 | OK     | Listagem exibiu todos os cursos                                | Baixa      | [CT007.mp4](https://drive.google.com/file/d/19TzaHqpOTkF4AJSpyzxAyNn2LG5F_PMf/view?usp=drive_link)        |
+| CT008 | OK     | Navegação para cadastro funcionando                             | Baixa      | [CT008.mp4](https://drive.google.com/file/d/19vpnb2EYVzZ9LoMKR6AIVmnjt_XmQZLF/view?usp=drive_link)       |
+| CT009 | NOK    | Excluir curso não remove o item (mensagem de sucesso exibida)   | Alta       | [CT009.mp4](https://drive.google.com/file/d/1nVwtlgahimdxJbIXVAFSeKywZptQFlwm/view?usp=drive_link)       |
+| CT010 | NOK    | Cards da listagem com tamanhos diferentes                       | Baixa      | [CT010.mp4](https://drive.google.com/file/d/1bdVMDdiiYD_t2LI1X37-yIcA1nbia6sK/view?usp=drive_link)       |
+| CT011 | NOK    | Atualizar página retorna 404                                     | Média      | [CT011.mp4](https://drive.google.com/file/d/1SwHgbOjE1FlNJOmDAXAgs80Qqcu2yvW2/view?usp=drive_link)     |
 
 ---
 
@@ -67,7 +67,7 @@ Metodologia utilizada: **ISTQB (Severity + Priority)**
 - **Steps to Reproduce**: passos claros para reproduzir o erro  
 - **Expected / Actual Result**: resultado esperado vs resultado obtido  
 
-Relatório completo disponível em: [`relatorio-bugs.md`](./relatorio-bugs.md)
+Relatório completo disponível em: [`relatorio-bugs.md`](./relatorios-bugs.md)
 
 ---
 
